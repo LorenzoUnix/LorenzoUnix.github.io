@@ -1,0 +1,63 @@
+<html lang="es">
+<head>
+<meta charset="utf-8">
+
+  <title>Velocidad</title>
+  
+<style type="text/css"></style><link  rel="stylesheet" href="estilo.css" type="text/css">
+</head>
+
+<body>
+
+<h1> Velocidades</h1>
+<h2>Las referencias (más significativas) a la velocidad en el examen y sus códigos son:</h2>
+<h3><li>4.4.-	Velocidad   adaptada	al tráfico,  vía  y  otras  circunstancias.</h3>
+<p></p>
+<li><strong> Circular a velocidad inadecuada en función del estado de la vía y las circunstancias  atmosféricas,  causando riesgo o peligro.</strong>
+<blockquote>
+<p>Cuando	Las	circunstancias atmosféricas sean: fuerte viento, lluvia   intensa,  niebla  densa, fuerte nevada, hielo, nubes de polvo o humo.</p>
+<p>No adaptarse al ritmo del tráfico y/o	de	la	vía,	cuando	las circunstancias		lo		permitan, habiendo sido invitado a ello.</p>
+<p>Circular salpicando o proyectando cualquier materia, causando riesgo o molestias graves o peligrosas a los   demás   usuarios   (peatones, vehículos de dos ruedas etc.…)</p>
+<p>Franquear a velocidad excesiva un paso para peatones sin visibilidad lateral.</p>
+<p>Reducir	considerablemente		la velocidad,  sin  justificación, antes de	penetrar	en	un	carril	de deceleración, obstaculizando.</p>
+<p>Detenerse innecesariamente, obstaculizando.</p>
+</blockquote>
+<sub><strong>En este apartado si bien se hace referencia a una velocidad excesiva en circunstancias climatológicas adversas (excepcionales en un examen) o al franquear un paso de peatones a excesiva velocidad sin visibilidad lateral, como cuando hay un camión, autobús o furgón parado o estacionado en sus proximidades. Que en este caso tenemos que casi detenernos. De no hacerlo nos descalifican de la prueba.
+<p>La mayor incidencia se da por circular a velocidad lenta, en este caso invitándonos a adaptar la velocidad a las circunstancias y a la vía y de no hacerlo sera un suspenso.</p>
+<p>A tener en cuenta, exceder en 10 km/h la velocidad reglamentaria será una falta leve, esto es, si hay una señal de 30 km.  llegar a 40 km. es una falta leve, pero circular a 35 es correcto. Lo que quiero decir es que es mejor llevar la velocidad cumplida que circular por debajo de ella.</p>
+<p>En vías urbanas la velocidad inteligente es 41 km/h., en progresión normal, no así en las intersecciones.</p>
+ </strong></sub>
+<h3><li>4.5.- Velocidad máxima.</h3>
+<blockquote><p>Superar en 10 km/h., la velocidad reglamentaria supone una falta leve</p>
+<p>Superar en 20 km/h., sera una falta deficiente</p>
+<p>Y hacerlo en 30 km/h., sera Eliminatoria.</p>
+
+</blockquote>
+<sub><strong><p>Tendrá la misma consideración si el exceso de velocidad es sobre la genérica, o sobre una especifica ya sea señal vertical o marca vial.</p></strong></sub>
+<h3><li>6.2.- Velocidad.</li></h3>
+<blockquote>
+<p>Adelantar	con	lentitud,	sin suficiente diferencia de velocidad, obstaculizando</p>
+<p>No disminuir la velocidad cuando se  produzca alguna situación de peligro,  para cualquier usuario de la vía.</p>
+</blockquote>
+<h3><li>7.- INTERSECCIONES.</li></h3>
+<li><strong>7.4.- Velocidad.</strong></li>
+<blockquote><p>Aproximarse	  o	franquear	a velocidad excesivamente reducida sin	causa	justificada,	obstaculizando.</p>
+<p>Franquear a velocidad inadecuada para	las	condiciones	de	la intersección.</p>
+</blockquote>
+<h2>Identificación de la velocidad genérica de las vías</h2>
+<img src="Imagenes/urbana.jpg" alt="Vía urbana"><p>En este caso que tenemos dudas si es urbana o interurbana, nos fijamos y tiene aceras por lo tanto es una vía urbana, velocidad máxima 50 km/h.</p>
+<img src="Imagenes/interurbana.jpg" alt="Vía interurbana" ><p>Aquí no tenemos aceras y si arcén, pues interurbana,de 100 km/h. o 90 km/h., en este caso de 100 por tener 2 carriles en un mismo sentido. </p>
+<img src="Imagenes/viaservicio.jpg" alt="Vía de servicio"><p>Esto es una vía de servicio, las señales de dirección tienen el fondo blanco. Velocidad máxima 100 km/h., y hay que ir muy atentos a las señales de velocidad que suele esta limitada.</p>
+<img src="Imagenes/autopista.jpg" alt="Autopista o Autovía"><p>Si tomamos el desvío hacia la izquierda entramos en una Autopista o Autovía la señal que lo indica su fondo es azul, Velocidad máxima 120 km/h.,</p>
+<h2>Aplicación de la señal de Velocidad máxima</h2>
+<h3>La vigencia del limite de velocidad es desde la vertical de la señal en adelante, hasta:</h3>
+<li>Nos encontremos una señal de fin de límite de velocidad o,</li>
+<li>Otra de límite de velocidad con un valor mayor o menor o </li>
+<li>Superemos un ceda el paso o un Stop, por ejemplo al salir de una glorieta.</li>
+<li>Salvo que este en el mismo poste o cartel que contenga una de peligro, que en ese caso finaliza cuando lo hace el peligro.</li>
+<img src="Imagenes/20sinpeligro.jpg" alt="Límite de 20 con cartel complementario"><p>En este caso la señal no finaliza hasta llegar a la glorieta, pues tiene debajo un cartel complementario pero no es una señal de peligro.</p>
+<img src="Imagenes/20conpeligro.jpg" alt="Velocidad limitada con señal de peligro"><p>En este caso cuando superemos el resalto desaparece el límite de velocidad, podremos ir a 50km/h.,</p>
+<img src="Imagenes/20_y_peligro.jpg" alt="Límite de velocidad y señal de peligro"><p>En este caso tenemos una señal de límite de velocidad y luego hay una señal de peligro, pero como no están en el mismo poste, la señal sigue vigente.</p>
+<img src="Imagenes/20Vial.jpg" alt="Marca Víal"><p>Igualmente en este supuesto la señal sigue vigente.</p>
+</body>
+</html>
