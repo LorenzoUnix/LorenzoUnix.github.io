@@ -1,0 +1,66 @@
+<!DOCTYPE html> 
+<html lang=”es”> 
+<head> 
+	<meta charset=”utf-8”> 
+	<title>MiWeb_Contacto</title> 
+	<link rel="Shortcut Icon" href="imagen/retiro.jpg"> 
+	<link rel="stylesheet" type="text/css" href="estilo/general.css"/> 
+	<script language="javascript" src="libreria/general.js"></script> 
+</head> 
+<body> 
+	<div class="general"> 
+		<div class="cabecera"> <a href="home.html"><img width="200" alt="logo" src="imagen/retiro.jpg" align="left" hspace="10px"/></a>
+		 <h1>MiWeb</h1> 
+		 <div id="nav"> 
+		 	<ul> 
+		 		<li><a href="home.html">HOME</a></li> 
+		 		<li><a href="somos.html">SOMOS</a></li> 
+		 		<li><a href="servicios.html">SERVICIOS</a></li> 
+		 		<li class="on"><a href="contacto.html">CONTACTO</a></li> 
+		 	</ul> 
+		 </div> 
+		</div> 
+		<div class="cuerpo"> 
+			<div id="principalContacto"> 
+				<h5>Contacto</h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et dolor eget nisi bibendum tincidunt. In accumsan dignissim dui non sodales. Ut vitae turpis felis, quis convallis purus. Maecenas gravida, velit eget elementum tempor, nibh dolor laoreet justo, vel mattis velit velit in tellus. In hac habitasse platea dictumst. Donec non neque est, at ultrices est. Sed ac tortor ligula, quis fermentum tellus. Etiam felis elit, dictum a fringilla et, sagittis in ligula. Duis ultricies, eros vitae interdum mattis, quam tortor sollicitudin tortor, nec condimentum ipsum nulla sed enim. Duis fringilla odio eget orci rutrum a varius nisl pulvinar. Donec nisl metus, semper vel aliquam ut, posuere eu orci. Nam congue sollicitudin volutpat. Vestibulum eu venenatis leo. Aliquam consectetur fermentum convallis. Nunc mollis rutrum mollis. Nullam auctor accumsan enim, ac lacinia turpis tristique sed. Sed sodales neque ut erat placerat vel malesuada orci convallis. Suspendisse quis velit lorem. Etiam ut nulla feugiat turpis mattis convallis nec id enim. Curabitur commodo vulputate lectus malesuada porta. </p> 
+				<div id="formulario"> 
+					<form id="form1" name="form1" method="post" action="enviar_mail.php" onsubmit="return validar();"> 
+						<fieldset> 
+							<legend>Datos Personales</legend> 
+							<label>Nombre</label> 
+							<input type="text" name="nombre" id="nombre" size="40" /><span class="error"></span> 
+							<br />
+							 <label>Apellido</label> 
+							 <input type="text" name="apellido" id="apellido" size="40"/><span class="error" id="errorApellido"></span> 
+							 <br /> 
+							 <label>Correo</label>
+							 <input type="text" name="correo" id="correo" size="40"/><span class="error"></span> 
+							 <br /> 
+							 <label>Mensaje:</label> 
+							 <div id="mensaje"> 
+							 	<textarea name="mensaje" id="mensajito" cols="35" rows="5"></textarea>
+							 	<span class="error"></span> 
+							 	<br /> 
+							 	<input type="submit" name="enviar" id="enviar" value="Enviar" aling="rigth" /> 
+							 </div>
+							</fieldset> 
+						</form> 
+					</div> 
+					<div id="mapa"> 
+						<fieldset> 
+							<legend>Donde Estamos</legend> 
+							<div> 
+								<iframe width="400" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=CICE,+Madrid&amp;aq=1&amp;sll=40.425057,-3.685381&amp;sspn=0.02656,0.066047&amp;ie=UTF8&amp;hq=CICE,&amp;hnear=Madrid,+Comunidad+de+Madrid&amp;ll=40.423796,-3.670721&amp;spn=0.001634,0.004292&amp;z=17&amp;output=embed"></iframe>
+								<br /> 
+							</div> 
+						</fieldset> 
+					</div> 
+				</div> 
+			</div> 
+			<div class="separacion"></div> 
+			<div class="pie"> <p>@ todos los derechos reservados</p> 
+			</div> 
+		</div> 
+	</body> 
+	</html>
